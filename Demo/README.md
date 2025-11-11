@@ -1,1 +1,2 @@
-Tukaj je nekaj primerov za prepoznavanje objektov. Vsi uporabljajo Ultralytics package. Info: https://docs.ultralytics.com/guides/nvidia-jetson/ 
+Tukaj je nekaj primerov za prepoznavanje objektov. Vsi uporabljajo Ultralytics package in Yolo8n model.
+Info: https://docs.ultralytics.com/guides/nvidia-jetson/ 
